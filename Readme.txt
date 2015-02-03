@@ -1,0 +1,1 @@
+The project in this repository consists of writing test cases for the testing of a login form (suppose that the usermname is "test_automation101" and password is "12345678"). Each case is numbered LOG-1 through LOG-11. After writing the test cases they are automated using Selenium WD and Java.
