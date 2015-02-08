@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 
-public class form_finalautomation {
+public class FormFinalAutomation {
 
 	public static void testCorrectCredentials() {
 		WebDriver driver = new FirefoxDriver();
